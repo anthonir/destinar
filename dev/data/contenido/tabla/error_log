@@ -1,0 +1,411 @@
+[04-Oct-2019 22:26:18 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 3
+[04-Oct-2019 22:26:18 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 3
+[04-Oct-2019 22:26:18 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/TABLA/index.php on line 3
+[04-Oct-2019 22:26:18 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 4
+[04-Oct-2019 22:26:18 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 4
+[04-Oct-2019 22:26:18 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/TABLA/index.php on line 4
+[04-Oct-2019 22:26:21 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 3
+[04-Oct-2019 22:26:21 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 3
+[04-Oct-2019 22:26:21 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/TABLA/index.php on line 3
+[04-Oct-2019 22:26:21 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 4
+[04-Oct-2019 22:26:21 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 4
+[04-Oct-2019 22:26:21 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/TABLA/index.php on line 4
+[04-Oct-2019 22:27:00 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 3
+[04-Oct-2019 22:27:00 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 3
+[04-Oct-2019 22:27:00 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/TABLA/index.php on line 3
+[04-Oct-2019 22:27:00 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 4
+[04-Oct-2019 22:27:00 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/TABLA/index.php on line 4
+[04-Oct-2019 22:27:00 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/TABLA/index.php on line 4
+[04-Oct-2019 22:38:34 UTC] PHP Warning:  mysql_result() expects at least 2 parameters, 1 given in /home3/destinar/public_html/dev/TABLA/index.php on line 7
+[04-Oct-2019 22:38:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/destinar/public_html/dev/TABLA/index.php on line 9
+[04-Oct-2019 22:39:56 UTC] PHP Warning:  mysql_result() expects at least 2 parameters, 1 given in /home3/destinar/public_html/dev/TABLA/index.php on line 7
+[04-Oct-2019 22:41:15 UTC] PHP Warning:  mysql_result() expects at least 2 parameters, 1 given in /home3/destinar/public_html/dev/TABLA/index.php on line 7
+[04-Oct-2019 22:42:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/index.php on line 11
+[04-Oct-2019 23:03:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/destinar/public_html/dev/TABLA/index.php on line 13
+[04-Oct-2019 23:03:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/destinar/public_html/dev/TABLA/index.php on line 13
+[04-Oct-2019 23:05:26 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/index.php on line 24
+[04-Oct-2019 23:06:06 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/index.php on line 25
+[04-Oct-2019 23:07:38 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/index.php on line 25
+[04-Oct-2019 23:08:28 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/index.php on line 25
+[04-Oct-2019 23:17:40 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/index.php on line 25
+[04-Oct-2019 23:32:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 20
+[04-Oct-2019 23:36:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 8
+[04-Oct-2019 23:36:29 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 8
+[04-Oct-2019 23:36:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 8
+[04-Oct-2019 23:36:33 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 8
+[04-Oct-2019 23:36:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 8
+[04-Oct-2019 23:36:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 8
+[04-Oct-2019 23:36:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 8
+[04-Oct-2019 23:36:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 8
+[04-Oct-2019 23:38:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 15
+[04-Oct-2019 23:38:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 15
+[04-Oct-2019 23:39:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 15
+[04-Oct-2019 23:39:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 15
+[04-Oct-2019 23:40:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 15
+[04-Oct-2019 23:40:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 15
+[04-Oct-2019 23:41:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 15
+[04-Oct-2019 23:42:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 15
+[04-Oct-2019 23:43:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 15
+[04-Oct-2019 23:43:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 15
+[04-Oct-2019 23:44:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 15
+[04-Oct-2019 23:46:08 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 9
+[04-Oct-2019 23:47:38 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 9
+[04-Oct-2019 23:48:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:50:54 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:51:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:53:21 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:55:13 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:56:43 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:56:43 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[04-Oct-2019 23:56:43 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[04-Oct-2019 23:56:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:56:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[04-Oct-2019 23:56:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[04-Oct-2019 23:56:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:56:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[04-Oct-2019 23:56:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[04-Oct-2019 23:57:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:57:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[04-Oct-2019 23:57:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[04-Oct-2019 23:57:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:57:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[04-Oct-2019 23:57:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[04-Oct-2019 23:57:58 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:57:58 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[04-Oct-2019 23:57:58 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[04-Oct-2019 23:59:11 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:59:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[04-Oct-2019 23:59:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[04-Oct-2019 23:59:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:59:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[04-Oct-2019 23:59:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[04-Oct-2019 23:59:18 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[04-Oct-2019 23:59:18 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[04-Oct-2019 23:59:18 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[05-Oct-2019 00:28:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 00:28:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[05-Oct-2019 00:28:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[05-Oct-2019 00:28:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 00:28:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[05-Oct-2019 00:28:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[05-Oct-2019 12:25:35 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:25:35 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[05-Oct-2019 12:25:35 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[05-Oct-2019 12:25:37 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:25:37 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[05-Oct-2019 12:25:37 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[05-Oct-2019 12:25:44 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:25:44 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[05-Oct-2019 12:25:44 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[05-Oct-2019 12:25:47 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:25:47 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[05-Oct-2019 12:25:47 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:30:41 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:16 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 18
+[05-Oct-2019 12:31:21 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 18
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:31:38 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:32:23 UTC] PHP Warning:  Illegal string offset 'mes' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 19
+[05-Oct-2019 12:34:09 UTC] PHP Warning:  mysql_result() expects at least 2 parameters, 1 given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:34:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 18
+[05-Oct-2019 12:36:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 20
+[05-Oct-2019 12:36:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 20
+[05-Oct-2019 12:41:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:41:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 29
+[05-Oct-2019 12:41:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 50
+[05-Oct-2019 12:46:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:46:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 24
+[05-Oct-2019 12:46:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 51
+[05-Oct-2019 12:46:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:46:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 24
+[05-Oct-2019 12:46:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 51
+[05-Oct-2019 12:47:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:47:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:47:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:52:50 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:52:50 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:52:50 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:53:21 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:53:21 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:53:21 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:53:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:53:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:53:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:54:52 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:54:52 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:54:52 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:55:00 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:55:00 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:55:00 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:56:44 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:56:44 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:56:44 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:57:26 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:57:26 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:57:26 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:57:34 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:57:34 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:57:34 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:58:52 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:58:52 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:58:52 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:59:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:59:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:59:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:59:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:59:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:59:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:59:17 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:59:17 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:59:17 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 12:59:54 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 12:59:54 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 12:59:54 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 13:00:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:00:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:00:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 52
+[05-Oct-2019 13:05:08 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:05:08 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:05:08 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 66
+[05-Oct-2019 13:08:41 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:08:41 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:08:41 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 67
+[05-Oct-2019 13:09:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:09:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:09:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 67
+[05-Oct-2019 13:11:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:11:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:11:12 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 67
+[05-Oct-2019 13:12:38 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:12:38 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:12:38 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 70
+[05-Oct-2019 13:13:35 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:13:35 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:13:35 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 70
+[05-Oct-2019 13:16:25 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:16:25 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:16:25 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 72
+[05-Oct-2019 13:17:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:17:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:17:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 72
+[05-Oct-2019 13:18:47 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:18:47 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:18:47 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 74
+[05-Oct-2019 13:20:05 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:20:05 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:20:05 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 74
+[05-Oct-2019 13:24:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:24:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:24:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 74
+[05-Oct-2019 13:25:08 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:25:08 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:25:08 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 74
+[05-Oct-2019 13:27:02 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:27:02 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:27:02 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 74
+[05-Oct-2019 13:28:40 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:28:40 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:28:40 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 74
+[05-Oct-2019 13:34:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:34:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:34:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 74
+[05-Oct-2019 13:35:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:35:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:35:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 75
+[05-Oct-2019 13:37:13 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:37:13 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:37:13 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 75
+[05-Oct-2019 13:43:53 UTC] PHP Parse error:  syntax error, unexpected '"' data-toggle='modal'  >' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 36
+[05-Oct-2019 13:45:00 UTC] PHP Parse error:  syntax error, unexpected '"' data-toggle='modal'  >' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 36
+[05-Oct-2019 13:45:03 UTC] PHP Parse error:  syntax error, unexpected '"' data-toggle='modal'  >' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 36
+[05-Oct-2019 13:46:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:46:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:46:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:46:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 118
+[05-Oct-2019 13:47:04 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:47:04 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:47:04 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:47:04 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 118
+[05-Oct-2019 13:49:58 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:49:58 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:49:58 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:49:59 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 124
+[05-Oct-2019 13:50:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:50:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:50:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:50:58 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 124
+[05-Oct-2019 13:51:42 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:51:42 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:51:42 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:52:19 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:52:19 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:52:19 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:53:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:53:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:53:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:54:51 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:54:51 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:54:51 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:54:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:54:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:54:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:54:59 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:54:59 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:54:59 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:56:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:56:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:56:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:57:15 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:57:15 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:57:15 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:57:59 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:57:59 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:57:59 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:58:34 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:58:34 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:58:34 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 13:59:40 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 13:59:40 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 13:59:40 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 14:00:41 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 14:00:41 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 14:00:41 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 14:02:33 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 14:02:33 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 14:02:33 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 14:03:22 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 14:03:22 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 14:03:22 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 14:03:26 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/accion.php on line 8
+[05-Oct-2019 14:14:27 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 14:14:27 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 14:14:27 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 14:14:46 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 14:14:46 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 14:14:46 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 14:15:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 14:15:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 14:15:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 14:15:16 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 14:15:16 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 14:15:16 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 14:15:28 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/accion.php on line 8
+[05-Oct-2019 14:16:03 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 14:16:03 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 14:16:03 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 14:16:49 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 14:16:49 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 14:16:49 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 14:17:01 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/accion.php on line 8
+[05-Oct-2019 14:17:03 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 14:17:03 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 14:17:03 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[05-Oct-2019 14:18:21 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[05-Oct-2019 14:18:21 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[05-Oct-2019 14:18:21 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[06-Oct-2019 23:48:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[06-Oct-2019 23:48:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[06-Oct-2019 23:48:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[06-Oct-2019 23:49:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[06-Oct-2019 23:49:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[06-Oct-2019 23:49:39 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[06-Oct-2019 23:50:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[06-Oct-2019 23:50:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[06-Oct-2019 23:50:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[06-Oct-2019 23:54:36 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[06-Oct-2019 23:54:36 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[06-Oct-2019 23:54:36 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[06-Oct-2019 23:55:28 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[06-Oct-2019 23:55:28 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[06-Oct-2019 23:55:28 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[06-Oct-2019 23:56:59 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[06-Oct-2019 23:56:59 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[06-Oct-2019 23:56:59 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[06-Oct-2019 23:58:34 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[06-Oct-2019 23:58:34 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[06-Oct-2019 23:58:34 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[07-Oct-2019 00:04:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[07-Oct-2019 00:04:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[07-Oct-2019 00:04:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[07-Oct-2019 00:06:19 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[07-Oct-2019 00:06:19 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[07-Oct-2019 00:06:19 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[07-Oct-2019 00:11:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[07-Oct-2019 00:11:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[07-Oct-2019 00:11:14 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[07-Oct-2019 00:20:33 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[07-Oct-2019 00:20:33 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[07-Oct-2019 00:20:33 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[07-Oct-2019 00:22:01 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[07-Oct-2019 00:22:01 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[07-Oct-2019 00:22:01 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[07-Oct-2019 00:27:35 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[07-Oct-2019 00:27:35 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[07-Oct-2019 00:27:35 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[07-Oct-2019 00:28:06 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 7
+[07-Oct-2019 00:28:06 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 25
+[07-Oct-2019 00:28:06 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/TABLA/datos_mes.php on line 56
+[07-Oct-2019 00:46:47 UTC] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/data/contenido/tabla/index.php on line 3
+[07-Oct-2019 00:46:47 UTC] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/data/contenido/tabla/index.php on line 3
+[07-Oct-2019 00:46:47 UTC] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/data/contenido/tabla/index.php on line 3
+[07-Oct-2019 00:46:47 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/index.php on line 8
+[07-Oct-2019 00:46:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/index.php on line 44
+[07-Oct-2019 00:46:49 UTC] PHP Warning:  include_once(../conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 2
+[07-Oct-2019 00:46:49 UTC] PHP Warning:  include_once(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 2
+[07-Oct-2019 00:46:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 86
+[07-Oct-2019 00:46:50 UTC] PHP Warning:  include_once(../conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 2
+[07-Oct-2019 00:46:50 UTC] PHP Warning:  include_once(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 2
+[07-Oct-2019 00:46:50 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 7
+[07-Oct-2019 00:46:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 14
+[07-Oct-2019 00:46:50 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 25
+[07-Oct-2019 00:46:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 32
+[07-Oct-2019 00:46:50 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 56
+[07-Oct-2019 00:46:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 58
+[07-Oct-2019 00:49:10 UTC] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/data/contenido/tabla/index.php on line 3
+[07-Oct-2019 00:49:10 UTC] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/data/contenido/tabla/index.php on line 3
+[07-Oct-2019 00:49:10 UTC] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/data/contenido/tabla/index.php on line 3
+[07-Oct-2019 00:49:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/index.php on line 8
+[07-Oct-2019 00:49:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/index.php on line 44
+[07-Oct-2019 00:49:13 UTC] PHP Warning:  include_once(../conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 2
+[07-Oct-2019 00:49:13 UTC] PHP Warning:  include_once(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 2
+[07-Oct-2019 00:49:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 86
+[07-Oct-2019 00:49:13 UTC] PHP Warning:  include_once(../conexion.php): failed to open stream: No such file or directory in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 2
+[07-Oct-2019 00:49:13 UTC] PHP Warning:  include_once(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 2
+[07-Oct-2019 00:49:13 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 7
+[07-Oct-2019 00:49:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 14
+[07-Oct-2019 00:49:13 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 25
+[07-Oct-2019 00:49:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 32
+[07-Oct-2019 00:49:13 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 56
+[07-Oct-2019 00:49:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/destinar/public_html/dev/data/contenido/tabla/datos_mes.php on line 58
